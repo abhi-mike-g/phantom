@@ -1,5 +1,5 @@
-## phantom
-# PhantomSense
+# Phantom
+## PhantomSense
 We are Phantom Sense, an R&D-driven project focused on AI-powered iot applications . Our work 
 revolves around building adaptive neural networks for real-time sensor data reconstruction, enhancing 
 reliability in critical systems like aerospace,power systems, automotive, and industrial monitoring.
