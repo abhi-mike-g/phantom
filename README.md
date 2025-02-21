@@ -9,5 +9,7 @@ This is a contributions page, please go through the "Code of Conduct" and "Contr
 the OHR .github repository before making any contributions.
 Link to "Code of Conduct" file: 
 https://github.com/openhorizonrobotics/.github/blob/main/CODE_OF_CONDUCT.md
+
+
 Link to "Contributions" file: 
 https://github.com/openhorizonrobotics/.github/blob/main/CONTRIBUTING.md
