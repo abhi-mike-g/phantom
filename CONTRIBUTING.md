@@ -18,3 +18,25 @@ Before creating a new issue or PR, please check the open issues in the repositor
 
 Commit messages should be concise and explain the "what" and "why" of the change, for example:
 
+
+### 4. Testing
+
+Please make sure that your changes don't break any existing code, and where applicable, include tests for your changes. We run automated tests via [CI/CD platform] to ensure stability.
+
+### 5. Submit a pull request
+
+Once you're ready with your changes, submit a pull request. Please ensure that your PR description follows the template, and provides context on why this change was made.
+
+## Code of Conduct
+
+By participating, you agree to abide by our [Code of Conduct](link-to-code-of-conduct).
+
+## Reporting Issues
+
+If you find any issues with the repository, please report them by opening an issue on the GitHub issue tracker.
+
+## License
+
+By contributing to this repository, you agree that your contributions will be licensed under the [License Name].
+
+Thank you again for contributing to Phantom Sense!
