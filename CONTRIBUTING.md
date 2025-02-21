@@ -37,6 +37,6 @@ If you find any issues with the repository, please report them by opening an iss
 
 ## License
 
-By contributing to this repository, you agree that your contributions will be licensed under the [License Name].
+By contributing to this repository, you agree that your contributions will be licensed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 
 Thank you again for contributing to Phantom Sense!
