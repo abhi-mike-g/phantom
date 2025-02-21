@@ -1,6 +1,6 @@
-# Contributing to [Project Name]
+# Contributing to [Phantom Sense]
 
-Thank you for your interest in contributing to [Project Name]! We welcome contributions and are happy to have you as part of our open-source community.
+Thank you for your interest in contributing to [Phantom Sense]! We welcome contributions and are happy to have you as part of our open-source community.
 
 ## How to contribute
 
